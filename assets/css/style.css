@@ -1,0 +1,13 @@
+/**resset**/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/**geral**/
+.caixa {
+    width: 500px;
+    height: 500px;
+    border: 40px solid rgb(200, 70, 150);
+    background-color: rgb(100, 500, 800);
+}
